@@ -22,17 +22,17 @@ scroll=normal*/
 }
 
 .pimg1{
-    background-image: url('../Freaky\ Friday/krana.jpg');
+    background-image: url('krana.jpg');
     min-height: 100%;
 }
 
 .pimg2{
-    background-image: url('../Freaky\ Friday/ørken.jpg');
+    background-image: url('ørken.jpg');
     min-height: 400px;
 }
 
 .pimg3{
-    background-image: url('../Freaky\ Friday/bad.jpg');
+    background-image: url('bad.jpg');
     min-height: 400px;
    
 }
